@@ -7,8 +7,9 @@ Esse site serve para fazer o relato sobre os cheats em jogo e fazer a denúncia,
 
 * João Vitor Carvalho Domingos
 * João Lourenço Ulhoa
-* João Guilherme
-* Samuel
+* João Guilherme Falante Araújo
+* Samuel Carvalho
+* Felipe de Assis Pinheiro
 
 ## Professores responsáveis
 
